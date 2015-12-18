@@ -14,7 +14,9 @@ For more details on using SFselect.py, see http://bioinf.ucsd.edu/~rronen/sfsele
 
 3) To run it, you have to install sklearn v0.13, by running
 
-`sudo pip install -Iv https://pypi.python.org/packages/source/s/scikit-learn/scikit-learn-0.13.tar.gz#md5=8d6029f668a330aded7afe5df18df4dc`
+```
+sudo pip install -Iv https://pypi.python.org/packages/source/s/scikit-learn/scikit-learn-0.13.tar.gz#md5=8d6029f668a330aded7afe5df18df4dc
+```
 
 ###Dependencies 
 numpy, matplotlib, scikits-learn (tested with v0.13)
